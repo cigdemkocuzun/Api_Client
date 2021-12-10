@@ -1,0 +1,12 @@
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\b\ChannelEngine.Consol\Debug\netcoreapp3.1\appsettings.json
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\b\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.exe
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\b\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.deps.json
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\b\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.runtimeconfig.json
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\b\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.runtimeconfig.dev.json
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\b\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.dll
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\i\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.csprojAssemblyReference.cache
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\i\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\i\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\i\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.csproj.CopyComplete
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\i\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.dll
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\.vs\ChannelEngine\v16\lut\0\i\ChannelEngine.Consol\Debug\netcoreapp3.1\ChannelEngine.Consol.genruntimeconfig.cache

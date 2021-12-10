@@ -1,0 +1,41 @@
+﻿@model ProductModel
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <br />
+    <form asp-controller="Product" asp-action="Edit" method="post">
+        @Html.HiddenFor(x => x.MerchantProductNo)
+
+        <div class="row static-info">
+            <div class="col-md-8">
+                <b><label asp-for="MerchantProductNo"></label></b>
+                <input asp-for="MerchantProductNo" class="form-control" readonly>
+                <span asp-validation-for="MerchantProductNo" class="text-danger"></span>
+
+            </div>
+        </div>
+        <br />
+        <div class="row static-info">
+            <div class="col-md-8">
+                <b><label asp-for="Name"></label></b>
+                <input asp-for="Name" class="form-control" readonly>
+                <span asp-validation-for="Name" class="text-danger"></span>
+
+            </div>
+        </div>
+        <br />
+        <div class="row static-info">
+            <div class="col-md-8">
+                <b>  <label asp-for="Stock"></label></b>
+                <textarea asp-for="Stock" class="form-control"></textarea>
+            </div>
+        </div>
+        <br />
+        <p>
+            <button type="submit" class="btn btn-primary">Update</button>
+        </p>
+    </form>
+</div>

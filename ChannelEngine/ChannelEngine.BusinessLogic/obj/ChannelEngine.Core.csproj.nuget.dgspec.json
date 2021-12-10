@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cigdem.koc\\Desktop\\1210\\ChannelEngine\\ChannelEngine.Core\\ChannelEngine.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cigdem.koc\\Desktop\\1210\\ChannelEngine\\ChannelEngine.Core\\ChannelEngine.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cigdem.koc\\Desktop\\1210\\ChannelEngine\\ChannelEngine.Core\\ChannelEngine.Core.csproj",
+        "projectName": "ChannelEngine.Core",
+        "projectPath": "C:\\Users\\cigdem.koc\\Desktop\\1210\\ChannelEngine\\ChannelEngine.Core\\ChannelEngine.Core.csproj",
+        "packagesPath": "C:\\Users\\cigdem.koc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cigdem.koc\\Desktop\\1210\\ChannelEngine\\ChannelEngine.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cigdem.koc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

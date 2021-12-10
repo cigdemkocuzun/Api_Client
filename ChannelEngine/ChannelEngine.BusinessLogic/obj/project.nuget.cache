@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXkbXWhp6iprQlp6Mh61bQYeESIBVTtdnoplKgAa/4f+ejAMlYLPW7PlkVt97bFjN9DRrcMpxUMuOiNl6tulQw==",
+  "success": true,
+  "projectFilePath": "C:\\ChannelEngine\\ChannelEngine\\ChannelEngine.BusinessLogic\\ChannelEngine.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cigdem.koc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\cigdem.koc\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\cigdem.koc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\cigdem.koc\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512",
+    "C:\\Users\\cigdem.koc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,99 @@
+﻿@model OrderProductViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-3">
+    <h2>ORDER LIST</h2>
+    <hr />
+    <div class="row">
+        <div class="col">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Channel Id</th>
+                        <th>Channel Name</th>
+                        <th>Channel Order No</th>
+                        <th>Order Date</th>
+                        <th>Payment Method</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Orders)
+                    {
+                        <tr>
+                            <td>
+                                @item.ChannelId
+                            </td>
+                            <td>
+                                @item.ChannelName
+                            </td>
+                            <td>
+                                @item.ChannelOrderNo
+                            </td>
+                            <td>
+                                @item.OrderDate
+                            </td>
+                            <td>
+                                @item.PaymentMethod
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+
+<div class="container mt-3">
+    <h2>TOP 5 PRODUCT LIST</h2>
+    <hr />
+    <div class="row">
+        <div class="col">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Merchant Product No</th>
+                        <th>Product Name</th>
+                        <th>Channel Product No</th>
+                        <th>Gtin</th>
+                        <th>Total Quantity</th>
+                        <th>#</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Products)
+                    {
+                        <tr>
+                            <td>
+                                @item.MerchantProductNo
+                            </td>
+                            <td>
+                                @item.Description
+                            </td>
+                            <td>
+                                @item.ChannelProductNo
+                            </td>
+                            <td>
+                                @item.Gtin
+                            </td>
+                            <td>
+                                @item.Quantity
+                            </td>
+                            <td>
+                                <a href="/Order/UpdateProductStockOnOrder/@item.MerchantProductNo"
+                                   onclick="return confirm('Are you sure want to update this product stock to 25?')"
+                                   class="btn btn-warning btn-sm" title="Update Stock to 25">
+                                    <b> Update Stock to 25</b>
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

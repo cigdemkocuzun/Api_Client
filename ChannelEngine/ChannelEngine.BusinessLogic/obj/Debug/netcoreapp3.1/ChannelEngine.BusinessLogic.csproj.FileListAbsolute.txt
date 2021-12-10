@@ -1,0 +1,8 @@
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\ChannelEngine.BusinessLogic\bin\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.deps.json
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\ChannelEngine.BusinessLogic\bin\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.dll
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\ChannelEngine.BusinessLogic\bin\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.pdb
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\ChannelEngine.BusinessLogic\obj\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\ChannelEngine.BusinessLogic\obj\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.AssemblyInfo.cs
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\ChannelEngine.BusinessLogic\obj\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\ChannelEngine.BusinessLogic\obj\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.dll
+C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\ChannelEngine.BusinessLogic\obj\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.pdb

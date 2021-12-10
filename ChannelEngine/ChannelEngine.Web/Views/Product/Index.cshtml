@@ -1,0 +1,60 @@
+﻿@model IEnumerable<ProductModel>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-3">
+    <h2> PRODUCT LIST</h2>
+    <hr />
+    <div class="row">
+        <div class="col">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Merchant Product No</th>
+                        <th>Product Name</th>
+                        <th>Description</th>
+                        <th>Size</th>
+                        <th>Color</th>
+                        <th>Stock</th>
+                        <th>Price</th>
+                        <th>#</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @item.MerchantProductNo
+                            </td>
+                            <td>
+                                @item.Name
+                            </td>
+                            <td>
+                                @item.Description.Replace("<br></br>", "")
+                            </td>
+                            <td>
+                                @item.Size
+                            </td>
+                            <td>
+                                @item.Color
+                            </td>
+                            <td>
+                                @item.Stock
+                            </td>
+                            <td>
+                                @item.Price
+                            </td>
+                            <td>
+                                @Html.ActionLink("Edit", "Edit", "Product", new { id = item.MerchantProductNo, name = item.Name, stock = item.Stock }, new { @class = "btn btn-primary btn-sm" })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
