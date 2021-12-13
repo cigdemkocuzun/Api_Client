@@ -26,26 +26,5 @@ namespace ChannelEngine.Core.Concrete.Order
             var data = JsonConvert.DeserializeObject<MerchantOrderModel>(restResponse.Content).Content;
             return data;
         }
-
-        //public async  Task UpdateProductStock(string merchantProductNumber, int stock)
-        //{
-        //    var request = new RestRequest("offer", Method.PUT);
-        //    request = CreateProductUpdateRequestBody(merchantProductNumber, stock, request);
-        //    var response = await _restApiService.ExecuteTask(request);
-        //}
-
-        //private RestRequest CreateProductUpdateRequestBody(string merchantProductNumber, int stock, RestRequest request)
-        //{
-        //    var requestBody = new ProductStockUpdate
-        //    {
-        //        MerchantProductNo = merchantProductNumber,
-        //        Stock = stock
-        //    };
-        //    request.RequestFormat = DataFormat.Json;
-        //    request.AddBody(new[] {requestBody});
-        //    return request;
-        //}
-
-       
     }
 }

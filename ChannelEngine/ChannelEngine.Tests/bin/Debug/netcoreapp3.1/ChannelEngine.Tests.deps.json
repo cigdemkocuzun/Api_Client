@@ -8,16 +8,24 @@
     ".NETCoreApp,Version=v3.1": {
       "ChannelEngine.Tests/1.0.0": {
         "dependencies": {
+          "Bogus": "34.0.1",
           "ChannelEngine.BusinessLogic": "1.0.0",
           "MSTest.TestAdapter": "2.1.0",
           "MSTest.TestFramework": "2.1.0",
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "Moq": "4.16.1",
-          "coverlet.collector": "1.2.0",
-          "xunit": "2.4.1"
+          "coverlet.collector": "1.2.0"
         },
         "runtime": {
           "ChannelEngine.Tests.dll": {}
+        }
+      },
+      "Bogus/34.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Bogus.dll": {
+            "assemblyVersion": "34.0.1.0",
+            "fileVersion": "34.0.1.0"
+          }
         }
       },
       "Castle.Core/4.4.0": {
@@ -1152,63 +1160,6 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "xunit/2.4.1": {
-        "dependencies": {
-          "xunit.analyzers": "0.10.0",
-          "xunit.assert": "2.4.1",
-          "xunit.core": "2.4.1"
-        }
-      },
-      "xunit.abstractions/2.0.3": {
-        "runtime": {
-          "lib/netstandard2.0/xunit.abstractions.dll": {
-            "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.0.0.0"
-          }
-        }
-      },
-      "xunit.analyzers/0.10.0": {},
-      "xunit.assert/2.4.1": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.1"
-        },
-        "runtime": {
-          "lib/netstandard1.1/xunit.assert.dll": {
-            "assemblyVersion": "2.4.1.0",
-            "fileVersion": "2.4.1.0"
-          }
-        }
-      },
-      "xunit.core/2.4.1": {
-        "dependencies": {
-          "xunit.extensibility.core": "2.4.1",
-          "xunit.extensibility.execution": "2.4.1"
-        }
-      },
-      "xunit.extensibility.core/2.4.1": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.1",
-          "xunit.abstractions": "2.0.3"
-        },
-        "runtime": {
-          "lib/netstandard1.1/xunit.core.dll": {
-            "assemblyVersion": "2.4.1.0",
-            "fileVersion": "2.4.1.0"
-          }
-        }
-      },
-      "xunit.extensibility.execution/2.4.1": {
-        "dependencies": {
-          "NETStandard.Library": "1.6.1",
-          "xunit.extensibility.core": "2.4.1"
-        },
-        "runtime": {
-          "lib/netstandard1.1/xunit.execution.dotnet.dll": {
-            "assemblyVersion": "2.4.1.0",
-            "fileVersion": "2.4.1.0"
-          }
-        }
-      },
       "ChannelEngine.BusinessLogic/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
@@ -1226,6 +1177,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Bogus/34.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-49iq7QrD0wb7V4/FcK8p3dWdJxNUbojaqK9L6KRvdikIuRjt38EsNp7QXICcYdbYw01K8BHUdxlnTNn/YX3qDA==",
+      "path": "bogus/34.0.1",
+      "hashPath": "bogus.34.0.1.nupkg.sha512"
     },
     "Castle.Core/4.4.0": {
       "type": "package",
@@ -1905,55 +1863,6 @@
       "sha512": "sha512-lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
-    },
-    "xunit/2.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-XNR3Yz9QTtec16O0aKcO6+baVNpXmOnPUxDkCY97J+8krUYxPvXT1szYYEUdKk4sB8GOI2YbAjRIOm8ZnXRfzQ==",
-      "path": "xunit/2.4.1",
-      "hashPath": "xunit.2.4.1.nupkg.sha512"
-    },
-    "xunit.abstractions/2.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-pot1I4YOxlWjIb5jmwvvQNbTrZ3lJQ+jUGkGjWE3hEFM0l5gOnBWS+H3qsex68s5cO52g+44vpGzhAt+42vwKg==",
-      "path": "xunit.abstractions/2.0.3",
-      "hashPath": "xunit.abstractions.2.0.3.nupkg.sha512"
-    },
-    "xunit.analyzers/0.10.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-4/IDFCJfIeg6bix9apmUtIMwvOsiwqdEexeO/R2D4GReIGPLIRODTpId/l4LRSrAJk9lEO3Zx1H0Zx6uohJDNg==",
-      "path": "xunit.analyzers/0.10.0",
-      "hashPath": "xunit.analyzers.0.10.0.nupkg.sha512"
-    },
-    "xunit.assert/2.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-O/Oe0BS5RmSsM+LQOb041TzuPo5MdH2Rov+qXGS37X+KFG1Hxz7kopYklM5+1Y+tRGeXrOx5+Xne1RuqLFQoyQ==",
-      "path": "xunit.assert/2.4.1",
-      "hashPath": "xunit.assert.2.4.1.nupkg.sha512"
-    },
-    "xunit.core/2.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Zsj5OMU6JasNGERXZy8s72+pcheG6Q15atS5XpZXqAtULuyQiQ6XNnUsp1gyfC6WgqScqMvySiEHmHcOG6Eg0Q==",
-      "path": "xunit.core/2.4.1",
-      "hashPath": "xunit.core.2.4.1.nupkg.sha512"
-    },
-    "xunit.extensibility.core/2.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-yKZKm/8QNZnBnGZFD9SewkllHBiK0DThybQD/G4PiAmQjKtEZyHi6ET70QPU9KtSMJGRYS6Syk7EyR2EVDU4Kg==",
-      "path": "xunit.extensibility.core/2.4.1",
-      "hashPath": "xunit.extensibility.core.2.4.1.nupkg.sha512"
-    },
-    "xunit.extensibility.execution/2.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-7e/1jqBpcb7frLkB6XDrHCGXAbKN4Rtdb88epYxCSRQuZDRW8UtTfdTEVpdTl8s4T56e07hOBVd4G0OdCxIY2A==",
-      "path": "xunit.extensibility.execution/2.4.1",
-      "hashPath": "xunit.extensibility.execution.2.4.1.nupkg.sha512"
     },
     "ChannelEngine.BusinessLogic/1.0.0": {
       "type": "project",

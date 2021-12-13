@@ -112,6 +112,7 @@ C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\Chann
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\ChannelEngine.Tests.runtimeconfig.dev.json
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\ChannelEngine.Tests.dll
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\ChannelEngine.Tests.pdb
+C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\Bogus.dll
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
@@ -131,10 +132,6 @@ C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\Newto
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\RestSharp.dll
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
-C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\xunit.abstractions.dll
-C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\xunit.assert.dll
-C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\xunit.core.dll
-C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\xunit.execution.dotnet.dll
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\ChannelEngine\ChannelEngine\ChannelEngine.Tests\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll

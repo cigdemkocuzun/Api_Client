@@ -9,7 +9,6 @@ C:\Users\cigdem.koc\Desktop\121010\ChannelEngine\ChannelEngine.BusinessLogic\obj
 C:\ChannelEngine\ChannelEngine\ChannelEngine.BusinessLogic\bin\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.deps.json
 C:\ChannelEngine\ChannelEngine\ChannelEngine.BusinessLogic\bin\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.dll
 C:\ChannelEngine\ChannelEngine\ChannelEngine.BusinessLogic\bin\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.pdb
-C:\ChannelEngine\ChannelEngine\ChannelEngine.BusinessLogic\obj\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.csprojAssemblyReference.cache
 C:\ChannelEngine\ChannelEngine\ChannelEngine.BusinessLogic\obj\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.AssemblyInfoInputs.cache
 C:\ChannelEngine\ChannelEngine\ChannelEngine.BusinessLogic\obj\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.AssemblyInfo.cs
 C:\ChannelEngine\ChannelEngine\ChannelEngine.BusinessLogic\obj\Debug\netcoreapp3.1\ChannelEngine.BusinessLogic.csproj.CoreCompileInputs.cache

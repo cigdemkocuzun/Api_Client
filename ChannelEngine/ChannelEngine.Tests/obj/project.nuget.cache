@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+pzP0QMReeaIYCng/YHI0G6RnXSRgfG6R/PyZcW2Qsm5SEu2C2t1wEtgrhtscKHVMgB7bLnEhS+vElXdwjpi6A==",
+  "dgSpecHash": "PipdGi2eiw3glVYxrHiB0vI9MgtltElkluPrA794MCtSEkj/FgFmC12F5Mvrtsi+2ZbFyjoEV+2nXuVKuJtl0A==",
   "success": true,
   "projectFilePath": "C:\\ChannelEngine\\ChannelEngine\\ChannelEngine.Tests\\ChannelEngine.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\cigdem.koc\\.nuget\\packages\\bogus\\34.0.1\\bogus.34.0.1.nupkg.sha512",
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
@@ -100,14 +101,7 @@
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\cigdem.koc\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\cigdem.koc\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\cigdem.koc\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
-    "C:\\Users\\cigdem.koc\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
-    "C:\\Users\\cigdem.koc\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
-    "C:\\Users\\cigdem.koc\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
-    "C:\\Users\\cigdem.koc\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
-    "C:\\Users\\cigdem.koc\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
-    "C:\\Users\\cigdem.koc\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512"
+    "C:\\Users\\cigdem.koc\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
