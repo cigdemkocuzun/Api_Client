@@ -5,6 +5,6 @@
 
 -Used Technologies : ASP.NET Core MVC , Rest Sharp for api consumer
 
-(Test classes will be extended)
+
 
 
